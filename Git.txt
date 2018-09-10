@@ -1,2 +1,11 @@
-git config --global user.name "Leonardo Bezerra"
-git config --global user.email "leo7shb@gmail.com"
+git config --global user.name "Leonardo Bezerra" - setar nome
+git config --global user.email "leo7shb@gmail.com" - setar email
+
+cd - para direcionar para a pasta desejável
+mkdir - criar pasta
+
+git init - para iniciar o trabalho na pasta
+git status - ver o status da pasta selecionada
+git add <file> - adiciona o arquivo para a sala de espera para ser commitado
+git add . - adiciona todos os arquivos para a sala de espera para ser commitado
+git commit -m "mensagem" - para commitar os arquivos da sala de espera
